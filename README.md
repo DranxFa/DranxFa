@@ -2,7 +2,7 @@
 
 **`Software Engineer & AI Builder`**
 
-Estudiante de Ingeniería de Sistemas e Informática, electrónico industrial de base, Java enthusiast y constructor de soluciones Full-Stack con integración de Agentes de IA, RAG y análisis de datos.
+Estudiante de Ingeniería de Sistemas e Informática, electrónico industrial de base, Java enthusiast. Me apasiona diseñar arquitecturas escalables, optimizar procesos y construir soluciones Full-Stack mediante la integración de Agentes de IA, sistemas RAG y analítica de datos. Conecto el hardware, el software y la inteligencia artificial para resolver problemas complejos de negocio.
 
    <p align="left">
       <a href="https://linkedin.com/in/francoisecnt" target="_blank">
