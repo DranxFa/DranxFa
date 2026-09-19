@@ -1,8 +1,8 @@
 # 💻 Francoise Contreras
 
-**`Software Engineer & AI Builder`**
+**`Software Engineer & AI & Data Analytics`**
 
-Estudiante de Ingeniería de Sistemas e Informática, electrónico industrial de base, Java enthusiast. Me apasiona diseñar arquitecturas escalables, optimizar procesos y construir soluciones Full-Stack mediante la integración de Agentes de IA, sistemas RAG y analítica de datos. Conecto el hardware, el software y la inteligencia artificial para resolver problemas complejos de negocio.
+Estudiante de Ingeniería de Sistemas e Informática enfocado en el diseño e implementación de sistemas de información integrales. Desarrollo aplicaciones Full-Stack y arquitecturas TI articulando optimización de procesos de negocio, analítica de datos para inteligencia de negocios e integración de Agentes de IA y sistemas RAG para la eficiencia operativa y la toma de decisiones.
 
    <p align="left">
       <a href="https://linkedin.com/in/francoisecnt" target="_blank">
