@@ -1,4 +1,4 @@
-# 🧑‍💻 Francoise Contreras
+# 💻 Francoise Contreras
 
 **`Software Engineer & AI Builder`**
 
