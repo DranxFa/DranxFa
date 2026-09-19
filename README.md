@@ -1,6 +1,6 @@
 # 💻 Francoise Contreras
 
-**`Software Engineer & AI & Data Analytics`**
+**`Software Engineer | AI & Data Analytics`**
 
 Estudiante de Ingeniería de Sistemas e Informática enfocado en el diseño e implementación de sistemas de información integrales. Desarrollo aplicaciones Full-Stack y arquitecturas TI articulando optimización de procesos de negocio, analítica de datos para inteligencia de negocios e integración de Agentes de IA y sistemas RAG para la eficiencia operativa y la toma de decisiones.
 
