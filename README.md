@@ -1,8 +1,8 @@
 # 💻 Francoise Contreras
 
-**`Software Engineer | AI & Data Analytics`**
+**`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Estudiante de Ingeniería de Sistemas e Informática enfocado en el diseño e implementación de sistemas de información integrales. Desarrollo aplicaciones Full-Stack y arquitecturas TI articulando optimización de procesos de negocio, analítica de datos para inteligencia de negocios e integración de Agentes de IA y sistemas RAG para la eficiencia operativa y la toma de decisiones.
+Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Diseño soluciones que van desde la extracción y transformación de datos, pasando por dashboards de inteligencia de negocio, hasta la construcción de agentes de inteligencia artificial con RAG. Cuento además con formación en desarrollo full stack, usando Java, Spring Boot, JavaScript/TypeScript y Angular/React.
 
    <p align="left">
       <a href="https://linkedin.com/in/francoisecnt" target="_blank">
@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Sistemas e Informática enfocado en el diseño e im
 
 ---
 
-### 🧰 Lenguajes y herramientas
+### 📊 Data & AI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -22,14 +22,21 @@ Estudiante de Ingeniería de Sistemas e Informática enfocado en el diseño e im
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧩 Full Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### 🛠️ Bases de Datos & Infraestructura
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/oracle_cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
