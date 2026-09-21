@@ -13,7 +13,7 @@ Estudiante orientado a la analítica de datos y la inteligencia artificial aplic
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=40404030&height=55&width=320&text=Data%20%26amp%3B%20AI&fontSize=24&fontColor=F2F2F2&fontAlignY=50&v=2" alt="Data & AI" />
+### 📊 Data & AI
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
