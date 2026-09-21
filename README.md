@@ -2,10 +2,10 @@
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Diseño soluciones que van desde la extracción y transformación de datos, pasando por dashboards de inteligencia de negocio, hasta la construcción de agentes de inteligencia artificial con RAG. Cuento además con formación en desarrollo full stack, usando Java, Spring Boot, JavaScript/TypeScript y Angular/React.
+Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Diseño soluciones que van desde la extracción y transformación de datos, pasando por dashboards de inteligencia de negocio, hasta la construcción de agentes de IA con RAG. Cuento además con formación en desarrollo full stack, usando Java, Spring Boot, TypeScript, JavaScript, Angular y React.
 
    <p align="left">
-      <a href="https://linkedin.com/in/francoisecnt" target="_blank">
+      <a href="https://linkedin.com/in/andriocontreras" target="_blank">
          <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    </p>
 
@@ -16,7 +16,7 @@ Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Di
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Groq](https://img.shields.io/badge/LLM-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -27,6 +27,7 @@ Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Di
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
