@@ -2,7 +2,7 @@
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Diseño soluciones que van desde la extracción y transformación de datos, pasando por dashboards de inteligencia de negocio, hasta la construcción de agentes de IA con RAG. Cuento además con formación en desarrollo full stack, usando Java, Spring Boot, TypeScript, JavaScript, Angular y React.
+Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Diseño soluciones que van desde la extracción y transformación de datos, pasando por dashboards de inteligencia de negocio, hasta la construcción de agentes de IA con RAG, integrando automatización de procesos y sistemas mediante APIs. Cuento además con formación en desarrollo full stack, usando Java, Spring Boot, TypeScript, JavaScript, Angular y React.
 
    <p align="left">
       <a href="https://linkedin.com/in/andriocontreras" target="_blank">
@@ -34,10 +34,10 @@ Estudiante enfocado en análisis de datos e inteligencia artificial aplicada. Di
 
 ### 🛠️ Bases de Datos & Infraestructura
 
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/oracle_cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
