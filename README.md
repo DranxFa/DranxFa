@@ -9,6 +9,8 @@ Estudiante orientado a la analítica de datos y la inteligencia artificial aplic
          <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    </p>
 
+<div align="center">
+
 ---
 
 ### 📊 Data & AI
@@ -42,3 +44,7 @@ Estudiante orientado a la analítica de datos y la inteligencia artificial aplic
 ![Oracle Cloud](https://img.shields.io/badge/oracle_cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+</div>
