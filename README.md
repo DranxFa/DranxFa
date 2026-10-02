@@ -8,7 +8,7 @@ Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de pro
       <a href="https://linkedin.com/in/andriocontreras" target="_blank">
          <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
-      <a href="mailto:tu-correo@gmail.com" target="_blank">
+      <a href="mailto:andriocontreras263@gmail.com" target="_blank">
          <img alt="Gmail" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
    </p>
