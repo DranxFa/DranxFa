@@ -2,7 +2,7 @@
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Estudiante orientado a la analítica de datos y la inteligencia artificial aplicada. Trabajo en la extracción, transformación y visualización de información para apoyar la toma de decisiones, además de construir agentes de IA y sistemas de automatización mediante integración de APIs. Sumado a esto, cuento con formación en desarrollo full stack, utilizando Java, Spring Boot, TypeScript, JavaScript, Angular y React.
+Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de procesamiento y modelado con Python y SQL, además de agentes autónomos y arquitecturas RAG con FastAPI, LangChain y LangGraph. Integro flujos automatizados de extremo a extremo y cuento con una base sólida en desarrollo full stack (Java, Spring Boot, Angular y React) junto con Docker para desplegar soluciones escalables.
 
    <p align="left">
       <a href="https://linkedin.com/in/andriocontreras" target="_blank">
