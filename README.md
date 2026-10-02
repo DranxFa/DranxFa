@@ -4,14 +4,10 @@
 
 Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de procesamiento y modelado con Python y SQL, además de agentes autónomos y arquitecturas RAG con FastAPI, LangChain y LangGraph. Integro flujos automatizados de extremo a extremo y cuento con una base sólida en desarrollo full stack (Java, Spring Boot, Angular y React) junto con Docker para desplegar soluciones escalables.
 
-   <p align="left">
-      <a href="https://linkedin.com/in/andriocontreras" target="_blank">
-         <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-      <a href="mailto:andriocontreras263@gmail.com" target="_blank">
-         <img alt="Gmail" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-      </a>
-   </p>
+   <div align="left">
+      <a href="https://linkedin.com/in/andriocontreras" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="mailto:andriocontreras263@gmail.com" target="_blank"><img alt="Gmail" src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   </div>
 
 <div align="center">
 
