@@ -2,7 +2,7 @@
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de procesamiento y modelado con Python y SQL, además de agentes autónomos y arquitecturas RAG con FastAPI, LangChain y LangGraph. Integro flujos automatizados de extremo a extremo y cuento con una base sólida en desarrollo full stack (Java, Spring Boot, Angular y React) junto con Docker para desplegar soluciones escalables.
+Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de procesamiento y modelado con Python y SQL, además de agentes autónomos y arquitecturas RAG con FastAPI, LangChain y LangGraph. Integro flujos automatizados de extremo a extremo y cuento con una base sólida en desarrollo full stack (Java, Spring Boot, .Net,Angular y React) junto con Docker para desplegar soluciones escalables.
 
    <div align="left">
       <a href="https://linkedin.com/in/andriocontreras" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
