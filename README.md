@@ -2,7 +2,7 @@
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
-Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de procesamiento y modelado con Python y SQL, además de agentes autónomos y arquitecturas RAG con FastAPI, LangChain y LangGraph. Integro flujos automatizados de extremo a extremo y cuento con una base sólida en desarrollo full stack (Java, Spring Boot, .Net,Angular y React) junto con Docker para desplegar soluciones escalables.
+Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteligencia artificial aplicada. Construyo pipelines ETL y modelos dimensionales con Python y SQL, y tableros analíticos con Power BI utilizando DAX y Excel. Desarrollo agentes de IA y arquitecturas RAG con FastAPI, LangChain y LangGraph, y automatizo flujos de punta a punta con n8n y modelado de procesos en BPMN. Trabajo con bases de datos relacionales como PostgreSQL, MySQL y SQL Server, y con MongoDB como base no relacional. Como complemento, tengo bases de desarrollo full stack con Java, Spring Boot y Angular. Uso Docker y GitHub Actions en mis proyectos, y aplico metodologías ágiles como Scrum y Kanban en equipos multidisciplinarios. Cuento con certificaciones en Google Data Analytics, AWS AI Practitioner y Oracle Cloud Infrastructure, entre otras del ecosistema TI.
 
    <div align="left">
       <a href="https://linkedin.com/in/andriocontreras" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,16 +13,14 @@ Enfocado en datos e inteligencia artificial aplicada. Construyo pipelines de pro
 
 ---
 
-### 📊 Data & AI
+### 📊 AI & Data
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Groq](https://img.shields.io/badge/LLM-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### 🧩 Full Stack
