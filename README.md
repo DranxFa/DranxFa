@@ -50,7 +50,7 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>Gestión Inteligente de Incidentes y Asistente Operacional 📊🤖</h4>
+      <h4>Analítica de Incidentes y Automatización de Procesos de Soporte TI 📊🤖</h4>
       <p>
         Sistema inteligente para clasificación, priorización y enrutamiento automatizado de tickets e incidentes técnicos mediante modelos de NLP y APIs de inferencia.
       </p>
