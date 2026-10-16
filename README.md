@@ -47,3 +47,96 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
 ---
 
 </div>
+
+<h3 align="center">Proyectos Destacados</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <!-- PROYECTO 1: INTELLIGENT INCIDENT TRIAGE -->
+    <td width="50%" valign="top">
+      <h4>Intelligent Incident Triage</h4>
+      <p>
+        Sistema inteligente para clasificación, priorización y enrutamiento automatizado de tickets e incidentes técnicos mediante modelos de NLP y APIs de inferencia.
+      </p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <details>
+        <summary><b>Ver captura</b></summary>
+        <br/>
+        <img src="assets/preview-incident-triage.png" alt="Preview Incident Triage" width="100%"/>
+      </details>
+      <p>
+        <a href="https://github.com/DranxFa/intelligent-incident-triage" target="_blank">Ver repositorio →</a>
+      </p>
+    </td>
+    <!-- PROYECTO 2: NO COUNTRY SIMULATION -->
+    <td width="50%" valign="top">
+      <h4>Plataforma Colaborativa & Microservicio ML</h4>
+      <p>
+        Desarrollo backend y microservicio de clasificación para la plataforma de equipo en simulación laboral (No Country), bajo arquitectura limpia y trabajo ágil.
+      </p>
+      <p>
+        <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <details>
+        <summary><b>Ver captura</b></summary>
+        <br/>
+        <img src="assets/preview-nocountry.png" alt="Preview No Country" width="100%"/>
+      </details>
+      <p>
+        <a href="https://github.com/No-Country-simulation/G9-LATAM-Team-61" target="_blank">Ver repositorio →</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- PROYECTO 3: ONLINE RETAIL ETL ANALYTICS -->
+    <td width="50%" valign="top">
+      <h4>Online Retail ETL & Analytics</h4>
+      <p>
+        Pipeline ETL de extremo a extremo para procesamiento de datos transaccionales de retail, modelado dimensional en base de datos y dashboard analítico en Power BI.
+      </p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+        <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <details>
+        <summary><b>Ver captura</b></summary>
+        <br/>
+        <img src="assets/preview-retail-etl.png" alt="Preview Retail ETL" width="100%"/>
+      </details>
+      <p>
+        <a href="https://github.com/DranxFa/online-retail-etl-analytics" target="_blank">Ver repositorio →</a>
+      </p>
+    </td>
+    <!-- PROYECTO 4: CHATBOT BOOKING N8N IA -->
+    <td width="50%" valign="top">
+      <h4>Chatbot Booking con n8n & Telegram</h4>
+      <p>
+        Agente conversacional en Telegram para agendamiento automatizado de citas, orquestado mediante flujos de trabajo en n8n e integración con modelos de lenguaje.
+      </p>
+      <p>
+        <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+        <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <details>
+        <summary><b>Ver captura</b></summary>
+        <br/>
+        <img src="assets/preview-n8n-booking.png" alt="Preview Booking Chatbot" width="100%"/>
+      </details>
+      <p>
+        <a href="https://github.com/DranxFa/chatbot-booking-n8n-ia-telegram" target="_blank">Ver repositorio →</a>
+      </p>
+    </td>
+  </tr>
+</table>
