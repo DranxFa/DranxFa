@@ -1,4 +1,4 @@
-# 💻 Francoise Contreras
+# 💻 Francoise Contreras 🐈
 
 **`Ingeniería de Sistemas e Informática | Data & AI Engineering`**
 
@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
 
 ## Stack Tecnológico
 
-### AI & Data 📊
+### AI & Data 📊🤖
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
