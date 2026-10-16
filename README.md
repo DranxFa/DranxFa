@@ -49,7 +49,6 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
 
 <table align="center" width="100%">
   <tr>
-    <!-- PROYECTO 1: INTELLIGENT INCIDENT TRIAGE -->
     <td width="50%" valign="top">
       <h4>Gestión Inteligente de Incidentes y Asistente Operacional 📊🤖</h4>
       <p>
@@ -73,9 +72,8 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
         <a href="https://github.com/DranxFa/intelligent-incident-triage" target="_blank">Ver repositorio →</a>
       </p>
     </td>
-    <!-- PROYECTO 2: NO COUNTRY SIMULATION -->
     <td width="50%" valign="top">
-      <h4>Hackaton ONE | TechMind - Plataforma Colaborativa & Microservicio ML 📚💡</h4>
+      <h4>Hackaton ONE | TechMind - Clasificación de Contenido & Microservicio ML 📚💡</h4>
       <p>
         Desarrollo backend y microservicio de clasificación de documentación técnica para la hackaton (No Country), bajo arquitectura limpia y trabajo ágil.
       </p>
@@ -101,7 +99,6 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
     </td>
   </tr>
   <tr>
-    <!-- PROYECTO 3: ONLINE RETAIL ETL ANALYTICS -->
     <td width="50%" valign="top">
       <h4>Analítica de E-commerce: Ingeniería de Datos y BI 📊🛍️</h4>
       <p>
@@ -122,7 +119,6 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
         <a href="https://github.com/DranxFa/online-retail-etl-analytics" target="_blank">Ver repositorio →</a>
       </p>
     </td>
-    <!-- PROYECTO 4: CHATBOT BOOKING N8N IA -->
     <td width="50%" valign="top">
       <h4>Chatbot para Gestión de Citas - Veterinaria 🤖🐕🐈</h4>
       <p>
