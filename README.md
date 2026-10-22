@@ -2,7 +2,7 @@
 
 **`Ingeniería de Sistemas e Informática | Data & Automation`**
 
-Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteligencia artificial aplicada. Construyo pipelines ETL y modelos dimensionales con Python y SQL, y tableros analíticos con Power BI utilizando DAX y Excel. Desarrollo agentes de IA y arquitecturas con FastAPI, automatizo flujos de punta a punta con n8n y modelo procesos en BPMN. Trabajo con bases de datos relacionales como PostgreSQL, MySQL y SQL Server, y con MongoDB como base no relacional. Como complemento, tengo bases de desarrollo full stack con Java, Spring Boot y Angular. Uso Docker y GitHub Actions en mis proyectos, y aplico metodologías ágiles como Scrum y Kanban en equipos multidisciplinarios. Cuento con certificaciones en AWS AI Practitioner, Google Data Analytics y Oracle Cloud Infrastructure, entre otras del ecosistema TI.
+Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos y automatización. Construyo pipelines ETL y modelos dimensionales con Python y SQL, y tableros analíticos con Power BI utilizando DAX y Excel. Desarrollo agentes de IA y arquitecturas con FastAPI, automatizo flujos de punta a punta con n8n y modelo procesos en BPMN. Trabajo con bases de datos relacionales como PostgreSQL, MySQL y SQL Server, y con MongoDB como base no relacional. Como complemento, tengo bases de desarrollo full stack con Java, Spring Boot y Angular. Uso Docker y GitHub Actions en mis proyectos, y aplico metodologías ágiles como Scrum y Kanban en equipos multidisciplinarios. Cuento con certificaciones en AWS AI Practitioner, Google Data Analytics y Oracle Cloud Infrastructure, entre otras del ecosistema TI.
 
 <p align="left">
   <a href="https://linkedin.com/in/andriocontreras" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,7 +11,7 @@ Estudiante de Ingeniería de Sistemas e Informática, enfocado en datos e inteli
 
 ## Stack Tecnológico
 
-### AI & Data 📊🤖
+### Data & Automation 📊🤖
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
